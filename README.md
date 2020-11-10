@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="">
-</p>
-
 I'm an engineer, open-sourcer, digital nomad, and ride-or-die TypeScripter.
 
 I got into open-source while trying to start a medical record software company as a solo developer. Sadly, the business side never took off, but the technical challenges I encountered have kept me busy for years now :) Managing the complexity of an app with over 200 highly-connected tables made the limitations of current API design and state management tools exceedingly clear.
